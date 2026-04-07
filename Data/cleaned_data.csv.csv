@@ -1,0 +1,21 @@
+﻿customer_id,customer_name,age,email,phone,purchase_date,amount,city
+C001,Nguyen Van An,25.0,nguyenvanan@gmail.com,912345678,2024-01-03,1200.5,Ha Noi
+C002,Tran Thi Bich,32.0,tranbich@yahoo.com,84987654321,2024-03-15,2500.0,Ho Chi Minh
+C003,Le Van Cuong,17.0,levancuong@gmail.com,909123456,2024-03-20,350.75,Da Nang
+C004,Pham Thi Dung,,phamdung@gmail.com,84901234567,2024-01-04,1800.0,Ha Noi
+C005,Nguyen Thi Em,29.0,nguyenthi_em@outlook.com,938111222,2024-04-01,999.99,Can Tho
+C006,Vu Manh Hung,,vuhung@gmail.com,84977888999,2024-05-04,3200.5,Ha Noi
+C007,Bui Thi Lan,45.0,unknown,912000111,2024-10-04,450.0,Hai Phong
+C008,Hoang Van Minh,38.0,hoangminh@gmail.com,965333444,2024-04-10,2100.75,Ho Chi Minh
+C009,Nguyen Van An,25.0,nguyenvanan@gmail.com,912345678,2024-01-03,1200.5,Ha Noi
+C010,Do Thi Ngoc,31.0,dongoc@gmail.com,84933555666,2024-04-15,750.25,Da Nang
+C011,Trinh Van Phu,,trinhphu@yahoo.com,944777888,2024-04-15,500.0,Ha Noi
+C012,Le Thi Quynh,27.0,lequynh@gmail.com,84955999000,2024-04-18,1350.0,Ho Chi Minh
+C013,Nguyen Manh Son,42.0,nguyenson@gmail.com,976111222,2024-04-18,280.5,Can Tho
+C014,Phan Thi Thu,36.0,unknown,84912333444,2024-04-22,2900.0,Ha Noi
+C015,Cao Van Uyen,29.0,caouyen@outlook.com,987555666,2024-04-22,660.0,Da Nang
+C016,Tran Van Vinh,,tranvinh@gmail.com,84909777888,2024-04-25,1450.75,Hai Phong
+C017,Nguyen Thi Xuan,33.0,nguyenxuan@gmail.com,912888999,2024-04-25,890.0,Ho Chi Minh
+C018,Dang Van Yen,28.0,dangyen@gmail.com,84938000111,2024-04-28,3750.5,Ha Noi
+C019,Bui Thi Zen,,buizen@yahoo.com,965222333,2024-04-28,120.0,Da Nang
+C020,Hoang Van Minh,38.0,hoangminh@gmail.com,965333444,2024-04-10,2100.75,Ho Chi Minh

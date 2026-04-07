@@ -1,0 +1,21 @@
+customer_id,customer_name,age,email,phone,purchase_date,amount,city
+C001,  nguyen van an ,25,nguyenvanan@gmail.com,0912345678,2024/03/01,$1200.50,Ha Noi
+C002,TRAN THI BICH,32,tranbich@yahoo.com,+84987654321,15-03-2024,"$2,500.00",ho chi minh
+C003,Le Van Cuong,17,levancuong@gmail.com,0909123456,2024/03/20,$350.75,Da Nang
+C004,  PHAM THI DUNG  ,,phamdung@gmail.com,+84901234567,2024/04/01,"$1,800.00",Ha Noi
+C005,nguyen thi em,29,nguyenthi_em@outlook.com,0938111222,01-04-2024,$999.99,Can Tho
+C006,VU MANH HUNG,150,vuhung@gmail.com,+84977888999,2024/04/05,"$3,200.50",Ha Noi
+C007,  bui thi lan  ,45,,0912000111,2024/04/10,$450.00,Hai Phong
+C008,HOANG VAN MINH,38,hoangminh@gmail.com,0965333444,10-04-2024,"$2,100.75",ho chi minh
+C009,nguyen van an,25,nguyenvanan@gmail.com,0912345678,2024/03/01,$1200.50,Ha Noi
+C010,  Do Thi Ngoc  ,31,dongoc@gmail.com,+84933555666,2024/04/15,"$750.25",Da Nang
+C011,TRINH VAN PHU,-5,trinhphu@yahoo.com,0944777888,15-04-2024,$500.00,Ha Noi
+C012,le thi quynh,27,lequynh@gmail.com,+84955999000,2024/04/18,"$1,350.00",ho chi minh
+C013,NGUYEN MANH SON,42,nguyenson@gmail.com,0976111222,18-04-2024,$280.50,Can Tho
+C014,  phan thi thu  ,36,,+84912333444,2024/04/22,"$2,900.00",Ha Noi
+C015,CAO VAN UYEN,29,caouyen@outlook.com,0987555666,22-04-2024,$660.00,Da Nang
+C016,tran van vinh,200,tranvinh@gmail.com,+84909777888,2024/04/25,"$1,450.75",Hai Phong
+C017,  NGUYEN THI XUAN  ,33,nguyenxuan@gmail.com,0912888999,25-04-2024,$890.00,Ho Chi Minh
+C018,dang van yen,28,dangyen@gmail.com,+84938000111,2024/04/28,"$3,750.50",Ha Noi
+C019,BUI THI ZEN,-5,buizen@yahoo.com,0965222333,28-04-2024,$120.00,Da Nang
+C020,HOANG VAN MINH,38,hoangminh@gmail.com,0965333444,10-04-2024,"$2,100.75",ho chi minh
